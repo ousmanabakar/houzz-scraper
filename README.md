@@ -1,4 +1,4 @@
-# houzz-scraper 🧲
+# [houzz-scraper](https://apify.com/scrapingxpert/houzz) 🧲
 
 # ✨ About Extract Houzz project data scraper ✨
 
@@ -186,3 +186,5 @@ For comprehensive information, explore the Apify API reference [documentation](h
 ## 💬 Feedback 💬
 
 If you have any technical feedback or encountered a bug while using the Extract Houzz project data, please create an issue on the actor's dedicated ["Issues"](https://console.apify.com/actors/PmxIAXfwo0gUUNdG4/issues) tab in the Apify Console. We value your input and appreciate your help in improving our services.
+
+click here: https://apify.com/scrapingxpert/houzz

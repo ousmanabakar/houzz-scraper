@@ -1,6 +1,6 @@
-# houzz-scraper
+# houzz-scraper 🧲
 
-# About Extract Houzz project data scraper
+# ✨ About Extract Houzz project data scraper ✨
 
 Houzz, a popular platform for home design and remodeling ideas, does not offer a dedicated API for extracting comprehensive project details. Extracting project data from Houzz typically required coding knowledge and API integration.
 
@@ -12,7 +12,7 @@ The extracted project data can be downloaded in various formats, including CSV (
 
 Apify offers a user-friendly interface that enables users to configure and run the script without extensive programming skills. By automating the data extraction process, Apify streamlines the task of retrieving the latest project details from Houzz, making it accessible to a wider range of users.
 
-## Output
+## Output 📊☑️
 ```python
  {
     "userId": 111882,
